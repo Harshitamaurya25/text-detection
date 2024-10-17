@@ -1,0 +1,13 @@
+.error-ribbon {
+    background-color: #f44336; /* Red background for errors */
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .error-snackbar {
+    background-color: #f44336 !important; /* Customize the Snackbar style */
+  }
+  
